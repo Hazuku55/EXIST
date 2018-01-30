@@ -56,7 +56,7 @@ import net.minecraft.util.ChatComponentText;
 public class Exist {
 
 	public static String Name = "Exist";
-	public static double Version = 0.3;
+	public static double Version = 0.4;
 
 	private static ArrayList<Module> mods;
 	public static ArrayList<Module> sorted = new ArrayList<Module>();
